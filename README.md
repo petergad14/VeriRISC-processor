@@ -5,3 +5,13 @@ _The architecture used is called very-reduced-instruction-set processor **(VeriR
 <p align = "center">
   <img src = "https://github.com/petergad14/VeriRISC-processor/assets/139645814/2813a937-664d-4084-8376-66fa0b609f15" width = "700", height = "500">
 </p>
+
+## Instruction set
+<p align = "center">
+  <img src = "https://github.com/petergad14/VeriRISC-processor/assets/139645814/d648f4c9-785e-4ec2-8bdd-368957d40805" width = "400", height = "300">
+</p>
+
+## Processor phases
+<p align = "center">
+  <img src = "https://github.com/petergad14/VeriRISC-processor/assets/139645814/f3a9fbf8-c6da-4b6a-8334-fa9134e83429" width = "500", height = "300">
+</p>
