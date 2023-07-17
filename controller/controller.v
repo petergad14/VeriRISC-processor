@@ -14,7 +14,7 @@ module controller (
       STO = (opcode == 6);
       JMP = (opcode == 7);
     end
-    always@(posedge clk)begin
+    always@(*)begin
       if(rst)begin
         cont_out = 9'b1000_00000; //INST_ADDR
       end
