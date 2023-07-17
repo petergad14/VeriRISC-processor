@@ -1,11 +1,11 @@
 `default_nettype none
 `include "ALU.v"
 `include "controller.v"
-`include "Counter.v"
+`include "counter.v"
 `include "memory.v"
-`include "mux_lab.v"
+`include "mux.v"
 `include "register.v"
-`include "tristate.v"
+`include "driver.v"
 
 
 module Top (
