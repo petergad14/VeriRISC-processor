@@ -2,7 +2,7 @@
 module controller (
     input wire zero, clk, rst,
     input wire [2:0] opcode, phase,
-    output reg sel, rd, ld_ir, halt, inc_pc, ld_ac, ld_pc, wr, data_e
+    output wire sel, rd, ld_ir, halt, inc_pc, ld_ac, ld_pc, wr, data_e
 );
     reg [8:0] cont_out;
     reg HALT, ALUOP, JMP, STO, SKZ;
